@@ -1,10 +1,7 @@
 # Amazon_Copy_Paste_Chrome_Extension
 A simple google chrome extension for easier copying and pasting of customer's order details in Amazon. Useful in dropshipping.
 
-![alt text](https://github.com/Amazon_Copy_Paste_Chrome_Extension/raw/master/images/extension.jpg)
-![alt text](https://github.com/Amazon_Copy_Paste_Chrome_Extension/raw/master/images/amazon_order.jpg)
-![alt text](https://github.com/Amazon_Copy_Paste_Chrome_Extension/raw/master/images/shipping_address.jpg)
-
+![alt text](https://raw.githubusercontent.com/jpodavalos/Amazon_Copy_Paste_Chrome_Extension/master/images/extension.JPG)
 
 Make sure you are using the latest Google Chrome Version. As of writing, latest version is Version 71.0.3578.98 (Official Build) (64-bit)
 
@@ -21,3 +18,7 @@ You should now see the "A" icon on the extensions bar.
 * Visit a specific order e.g. https://sellercentral.amazon.ca/hz/orders/details?_encoding=UTF8&orderId=<ORDER ID>
 * Click "COPY INFO" 
 * Try to order one item on Amazon, on Check out, edit shipping address and click "PASTE INFO" 
+  
+![alt text](https://raw.githubusercontent.com/jpodavalos/Amazon_Copy_Paste_Chrome_Extension/master/images/amazon_order.jpg)
+![alt text](https://raw.githubusercontent.com/jpodavalos/Amazon_Copy_Paste_Chrome_Extension/master/images/shipping_address.jpg)
+
